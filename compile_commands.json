@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/barik/opencv/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/opencv.dir/includes_CXX.rsp -g -o CMakeFiles\\opencv.dir\\main.cpp.obj -c C:\\Users\\barik\\opencv\\main.cpp",
+  "file": "C:/Users/barik/opencv/main.cpp",
+  "output": "CMakeFiles/opencv.dir/main.cpp.obj"
+}
+]
